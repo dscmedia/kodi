@@ -92,8 +92,8 @@
 <channel>
 <name>[COLORwhite][B]---->[/B][/COLOR][B][COLORyellow]ROMANIA[/COLOR][COLORyellow] PLAYTV[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
 <thumbnail>https://documentarys.do.am/test2023/icon.png</thumbnail>
-<externallink>https://documentarys.do.am/test2023/kodi2023/vavoo/Rr0m4ni4.txt</externallink>
-<fanart>https://documentarys.do.am/test2023/fanart.jpg</fanart>
+<externallink></externallink>
+<fanart></fanart>
 <info>
 </channel>
 

@@ -1,190 +1,104 @@
-# -*- coding: utf-8 -*-
+<channels>
+<channel>
+<name>[COLORred][B]DscMedia[/B][/COLOR][COLORlime][B]nexus[/B][/COLOR]</name>*
+<thumbnail>[https://image.freepik.com/free-vector/welcome-poster-neon-style_118419-260.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEpSXtdMzrHxn6RC1M2s5a9gWhrG2KzuC7Vw&usqp=CAU)</thumbnail>
+<externallink></externallink>
+<fanart>data:image/jpeg;base64,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</fanart>
+<info>FREE!</info>
 
-import sys
-try:
-    import cookielib
-except ImportError:
-    import http.cookiejar as cookielib
-try:
-    import urllib.parse as urllib
-except ImportError:
-    import urllib
-try:
-    import urllib2
-except ImportError:
-    import urllib.request as urllib2
-import datetime
-from datetime import datetime
-import re
-import os
-import base64
-import codecs
-import xbmc
-import xbmcplugin
-import xbmcgui
-import xbmcaddon
-import xbmcvfs
-import traceback
-import time
-import resolveurl
 
-try:
-    import json
-except:
-    import simplejson as json
 
 
-##CONFIGURAÇÕES
-####  TITULO DO MENU  #################################################################
-title_menu = ''
-###  DESCRIÇÃO DO ADDON ###############################################################
-title_descricao = 'Descrição do addon'
+</channel>
 
-####  LINK DO TITULO DE MENU  #########################################################
-## OBS: POR PADRÃO JÁ TEM UM MENU EM BRANCO PARA NÃO TER ERRO AO CLICAR ###############
-url_b64_title = ''
-#url_title = base64.b64decode(url_b64_title).decode('utf-8')
-url_title = ''
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-##### PESQUISA - get.php
-#url_b64_pesquisa = ''
-#url_pesquisa = base64.b64decode(url_b64_pesquisa).decode('utf-8')
-url_pesquisa = 'http://teste.com/get.php'
-menu_pesquisar = '[COLOR white][B]PESQUISAR...[/B][/COLOR]'
-thumb_pesquisar = ''
-fanart_pesquisar = ''
-#### Descrição Pesquisa
-desc_pesquisa = 'Pesquise por filme'
-## MENU CONFIGURAÇÕES
-menu_configuracoes = '[B][COLOR white]CONFIGURAÇÕES[/COLOR][/B]'
-thumb_icon_config = ''
-desc_configuracoes = ''
-## FAVORITOS
-menu_favoritos = '[B][COLOR white]FAVORITOS[/COLOR][/B]'
-thumb_favoritos = ''
-desc_favoritos = ''
 
-#### MENU VIP ################################################################
-titulo_vip = '[COLOR white][B]ÁREA DE ACESSO[/B][/COLOR] [COLOR gold][B](VIP)[/B][/COLOR]'
-thumbnail_vip = ''
-fanart_vip = ''
-#### DESCRIÇÃO VIP ###########################################################
-vip_descricao = ''
-#### DIALOGO VIP - SERVIDOR DESATIVADO - CLICK ###################################
-vip_dialogo = 'No Kodi só canais pelo vip, use o app'
-##SERIVODR VIP
-url_server_vip = ''
 
+<channel>
+<name>[COLORwhite][B]Filme[/B][/COLOR] </name>
+<thumbnail>data:image/jpeg;base64,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</thumbnail>
+<externallink>https://documentarys.do.am/test2023/kodi2023/filme/filme.txt</externallink>
+<fanart>https://static.vecteezy.com/ti/gratis-vektor/p3/2405453-film-natt-logotyp-neon-tecken-stil-text-vektor-vector.jpg</fanart>
+<info>
+</channel>
+<channel>
+<name>[COLORwhite][B]Seriale [/B][/COLOR] </name>
+<thumbnail>https://techcafe.ro/files/2023/06/Seriale-romanesti-vechi-verifica-pe-care-ti-le-amintesti-si-descopera-altele-noi.webp</thumbnail>
+<externallink></externallink>
+<fanart>https://playtech.ro/wp-content/uploads/2012/10/Filme-online-Romania-legal-seriale-TV.jpg</fanart>
+<info>
+</channel>
+<channel>
+<name>[COLORwhite][B]Seriale... [/B][/COLOR] </name>
+<thumbnail>https://static.stacker.com/s3fs-public/styles/sar_screen_maximum_large/s3/VintageTVWJKC_9.png</thumbnail>
+<externallink></externallink>
+<fanart>https://cdn.wallpapersafari.com/60/39/2K7N8n.jpg</fanart>
+<info>
+</channel>
 
-## MULTLINK
-## nome para $nome, padrão: lsname para $lsname
-playlist_command = 'nome'
-dialog_playlist = 'Selecione um item'
 
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORlemon]tv247[/COLOR][COLORlemon].us[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://iptvwire.com/wp-content/uploads/2023/01/tv247.png</thumbnail>
+<externallink></externallink>
+<fanart>https://iptvwire.com/wp-content/uploads/2023/01/tv247.png</fanart>
+<info>
+</channel>
 
-# user agent - Padrão: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
-useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36'
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORlemon]photocall[/COLOR][COLORlemon].tv[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://areajugones.sport.es/wp-content/uploads/2023/09/photocall-tv.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://areajugones.sport.es/wp-content/uploads/2023/09/photocall-tv.jpg</fanart>
+<info>
+</channel>
 
-# Base - seu link principal
-url_b64_principal = 'url base 64 encode'
-url_principal = ''
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORaqua]ROMANIA[/COLOR][COLORaqua] TV 1[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://tvlive.dap.ro/wp-content/uploads/2017/04/apps.24545.9007199266559870.2cc25f04-82d3-4d6f-9dec-f4b5c9d60f5a.636cba67-93b7-474b-904a-e5eb9758a51d.png</thumbnail>
+<externallink></externallink>
+<fanart>https://media0.wgz.ro/images/media0:59fec5e236431.jpg/Media-chituliviutv.jpg</fanart>
+<info>
+</channel>
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORaqua]ROMANIA[/COLOR][COLORaqua] TV 2[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://tvlive.dap.ro/wp-content/uploads/2017/04/apps.24545.9007199266559870.2cc25f04-82d3-4d6f-9dec-f4b5c9d60f5a.636cba67-93b7-474b-904a-e5eb9758a51d.png</thumbnail>
+<externallink></externallink>
+<fanart>https://media0.wgz.ro/images/media0:59fec5e236431.jpg/Media-chituliviutv.jpg</fanart>
+<info>
+</channel>
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORaqua]ROMANIA[/COLOR][COLORaqua] TV 3[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://tvlive.dap.ro/wp-content/uploads/2017/04/apps.24545.9007199266559870.2cc25f04-82d3-4d6f-9dec-f4b5c9d60f5a.636cba67-93b7-474b-904a-e5eb9758a51d.png</thumbnail>
+<externallink></externallink>
+<fanart>https://media0.wgz.ro/images/media0:59fec5e236431.jpg/Media-chituliviutv.jpg</fanart>
+<info>
+</channel>
 
-#name - mensagem suporte
-addon_name = xbmcaddon.Addon().getAddonInfo('name')
 
 
-if sys.argv[1] == 'limparFavoritos':
-    Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('profile')).decode("utf-8")
-    arquivo = os.path.join(Path, "favorites.dat")
-    exists = os.path.isfile(arquivo)
-    if exists:
-        try:
-            os.remove(arquivo)
-        except:
-            pass
-    xbmcgui.Dialog().ok('Sucesso', '[B][COLOR red]Favoritos limpo com sucesso![/COLOR][/B]')
-    xbmc.sleep(2000)
-    exit()
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORaqua]ROMANIA[/COLOR][COLORaqua] RADIO[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://cadero.org.ar/wp-content/uploads/2020/04/escucharradiosonline_0.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://cadero.org.ar/wp-content/uploads/2020/04/escucharradiosonline_0.jpg</fanart>
+<info>
+</channel>
 
 
-if sys.argv[1] == 'SetPassword':
-    addonID = xbmcaddon.Addon().getAddonInfo('id')
-    addon_data_path = xbmc.translatePath(os.path.join('special://home/userdata/addon_data', addonID))
-    if os.path.exists(addon_data_path)==False:
-        os.mkdir(addon_data_path)
-    xbmc.sleep(4)
-    #Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('profile')).decode("utf-8")
-    #arquivo = os.path.join(Path, "password.txt")
-    arquivo = os.path.join(addon_data_path, "password.txt")
-    exists = os.path.isfile(arquivo)
-    keyboard = xbmcaddon.Addon().getSetting("keyboard")
-    if exists == False:
-        password = '0069'
-        p_encoded = base64.b64encode(password.encode()).decode('utf-8')
-        p_file1 = open(arquivo,'w')
-        p_file1.write(p_encoded)
-        p_file1.close()
-        xbmc.sleep(4)
-        p_file = open(arquivo,'r+')
-        p_file_read = p_file.read()
-        p_file_b64_decode = base64.b64decode(p_file_read).decode('utf-8')
-        dialog = xbmcgui.Dialog()
-        if int(keyboard) == 0:
-            ps = dialog.numeric(0, 'Insira a senha atual:')
-        else:
-            ps = dialog.input('Insira a senha atual:', option=xbmcgui.ALPHANUM_HIDE_INPUT)
-        if ps == p_file_b64_decode:
-            if int(keyboard) == 0:
-                ps2 = dialog.numeric(0, 'Insira a nova senha:')
-            else:
-                ps2 = dialog.input('Insira a senha atual:', option=xbmcgui.ALPHANUM_HIDE_INPUT)
-            if ps2 != '':
-                ps2_b64 = base64.b64encode(ps2.encode()).decode('utf-8')
-                p_file = open(arquivo,'w')
-                p_file.write(ps2_b64)
-                p_file.close()
-                xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','A Senha foi alterada com sucesso!')
-            else:
-                xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','Não foi possivel alterar a senha!')
-        else:
-            xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','Senha invalida!, se não alterou utilize a senha padrão')
-    else:
-        p_file = open(arquivo,'r+')
-        p_file_read = p_file.read()
-        p_file_b64_decode = base64.b64decode(p_file_read).decode('utf-8')
-        dialog = xbmcgui.Dialog()
-        if int(keyboard) == 0:
-            ps = dialog.numeric(0, 'Insira a senha atual:')
-        else:
-            ps = dialog.input('Insira a senha atual:', option=xbmcgui.ALPHANUM_HIDE_INPUT)
-        if ps == p_file_b64_decode:
-            if int(keyboard) == 0:
-                ps2 = dialog.numeric(0, 'Insira a nova senha:')
-            else:
-                ps2 = dialog.input('Insira a senha atual:', option=xbmcgui.ALPHANUM_HIDE_INPUT)
-            if ps2 != '':
-                ps2_b64 = base64.b64encode(ps2.encode()).decode('utf-8')
-                p_file = open(arquivo,'w')
-                p_file.write(ps2_b64)
-                p_file.close()
-                xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','A Senha foi alterada com sucesso!')
-            else:
-                xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','Não foi possivel alterar a senha!')
-        else:
-            xbmcgui.Dialog().ok('[B][COLOR white]AVISO[/COLOR][/B]','Senha invalida!, se não alterou utilize a senha padrão')
-    exit()
 
+<channel>
+<name>[COLORwhite][B]---->[/B][/COLOR][B][COLORyellow]ROMANIA[/COLOR][COLORyellow] PLAYTV[/COLOR][/B][COLORwhite][B]<----[/B][/COLOR]</name>
+<thumbnail>https://documentarys.do.am/test2023/icon.png</thumbnail>
+<externallink>https://documentarys.do.am/test2023/kodi2023/vavoo/Rr0m4ni4.txt</externallink>
+<fanart>https://documentarys.do.am/test2023/fanart.jpg</fanart>
+<info>
+</channel>
 
 
-addon_handle = int(sys.argv[1])
-__addon__ = xbmcaddon.Addon()
-addon = __addon__
-__addonname__ = __addon__.getAddonInfo('name')
-__icon__ = __addon__.getAddonInfo('icon')
-addon_version = __addon__.getAddonInfo('version')
 
-    
 
 
 
@@ -192,419 +106,4 @@ addon_version = __addon__.getAddonInfo('version')
 
 
 
-def notify(message, timeShown=5000):
-    xbmc.executebuiltin('Notification(%s, %s, %d, %s)' % (__addonname__, message, timeShown, __icon__))
-
-def to_unicode(text, encoding='utf-8', errors='strict'):
-    """Force text to unicode"""
-    if isinstance(text, bytes):
-        return text.decode(encoding, errors=errors)
-    return text
-
-def get_search_string(heading='', message=''):
-    """Ask the user for a search string"""
-    search_string = None
-    keyboard = xbmc.Keyboard(message, heading)
-    keyboard.doModal()
-    if keyboard.isConfirmed():
-        search_string = to_unicode(keyboard.getText())
-    return search_string
-
-def getRequest(url, count):
-    proxy_mode = addon.getSetting('proxy')
-    if proxy_mode == 'true':
-        try:
-            import requests
-            import random
-            headers={'User-agent': useragent,
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'Content-Type': 'text/html'}
-            if int(count) > 0:
-                attempt = int(count)-1
-            else:
-                attempt = 0
-            #print('tentativa: '+str(attempt)+'')
-            ### https://proxyscrape.com/free-proxy-list
-            ##http
-            data_proxy1 = getRequest2('https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=10000&country=BR&ssl=no&anonymity=all', '')
-            list1 = data_proxy1.splitlines()
-            total1 = len(list1)
-            number_http = random.randint(0,total1-1)
-            proxy_http = 'http://'+list1[number_http]
-            ##https
-            data_proxy2 = getRequest2('https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=10000&country=BR&ssl=yes&anonymity=all', '')
-            list2 = data_proxy2.splitlines()
-            total2 = len(list2)
-            number_https = random.randint(0,total2-1)
-            proxy_https = 'https://'+list2[number_https]
-            #print(proxy_https)
-            proxyDict = {"http" : proxy_http, "https" : proxy_https}
-            req = requests.get(url, headers=headers, proxies=proxyDict)
-            req.encoding = 'utf-8'
-            #status = req.status_code
-            response = req.text
-            return response
-        except:
-            proxy_number = addon.getSetting('proxy_try')
-            if int(attempt) > 0:
-                limit = int(attempt)
-            elif int(count) == 1 and int(attempt) == 0:
-                limit = int(proxy_number)+1+1
-            if int(limit) > 1:
-                #print('ativar outro proxy')
-                data = getRequest(url, int(limit))
-                return data
-            else:
-                notify('[COLOR red]Erro ao utilizar o proxy ou servidor![/COLOR]')
-                response = ''
-                return response
-    else:
-        try:
-            try:
-                import urllib.request as urllib2
-            except ImportError:
-                import urllib2
-            request_headers = {
-            "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8,ru;q=0.7,de-DE;q=0.6,de;q=0.5,de-AT;q=0.4,de-CH;q=0.3,ja;q=0.2,zh-CN;q=0.1,zh;q=0.1,zh-TW;q=0.1,es;q=0.1,ar;q=0.1,en-GB;q=0.1,hi;q=0.1,cs;q=0.1,el;q=0.1,he;q=0.1,en-US;q=0.1",
-            "User-Agent": useragent,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
-            }
-            request = urllib2.Request(url, headers=request_headers)
-            response = urllib2.urlopen(request).read().decode('utf-8')
-            return response
-        except urllib2.URLError as e:
-            if hasattr(e, 'code'):
-                xbmc.executebuiltin("XBMC.Notification(Falha, código de erro - "+str(e.code)+",10000,"+__icon__+")")    
-            elif hasattr(e, 'reason'):
-                xbmc.executebuiltin("XBMC.Notification(Falha, motivo - "+str(e.reason)+",10000,"+__icon__+")")
-            response = ''
-            return response
-
-
-
-def getRequest2(url,ref,userargent=False):
-    try:
-        if ref > '':
-            ref2 = ref
-        else:
-            ref2 = url
-        if userargent:
-            client_user = userargent
-        else:
-            client_user = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36'
-        cj = cookielib.CookieJar()
-        opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
-        opener.addheaders=[('Accept-Language', 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7'),('User-Agent', client_user),('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'), ('Referer', ref2)]
-        data = opener.open(url).read()
-        response = data.decode('utf-8')
-        return response
-    except:
-        pass
-
-def regex_get_all(text, start_with, end_with):
-    r = re.findall("(?i)(" + start_with + "[\S\s]+?" + end_with + ")", text)
-    return r
-
-
-
-def re_me(data, re_patten):
-    match = ''
-    m = re.search(re_patten, data)
-    if m != None:
-        match = m.group(1)
-    else:
-        match = ''
-    return match
-
-
-
-def resolve_data(url):
-    try:
-        data = getRequest(url, 1)
-        import gzip, binascii
-        #k = base64.b32decode('').decode('utf-8')
-        k = base64.b32decode('').decode('utf-8')
-        try:
-            from StringIO import StringIO as BytesIO ## for Python 2
-        except ImportError:            
-            from io import BytesIO ## for Python 3
-        if k in data:
-            data = data.split(k)
-            buf = BytesIO(binascii.unhexlify(data[0]))
-            f = gzip.GzipFile(fileobj=buf)
-            data = f.read()
-    except:
-        data = getRequest(url, 1)        
-    return data
-
-def getData(url,fanart,pesquisa=False):
-    adult = xbmcaddon.Addon().getSetting("adult")
-    adult2 = xbmcaddon.Addon().getSetting("adult2")
-    uhdtv = addon.getSetting('uhdtv')
-    fhdtv = addon.getSetting('fhdtv')
-    hdtv = addon.getSetting('hdtv')
-    sdtv = addon.getSetting('sdtv')
-    filtrar = addon.getSetting('filtrar')
-    data = resolve_data(url)
-    if isinstance(data, (int, str, list)):
-        channels = re.compile('<channels>(.+?)</channels>',re.MULTILINE|re.DOTALL).findall(data)
-        channel = re.compile('<channel>(.*?)</channel>',re.MULTILINE|re.DOTALL).findall(data)
-        item = re.compile('<item>(.*?)</item>',re.MULTILINE|re.DOTALL).findall(data)
-        if len(channels) >0:
-            for channel in channel:
-                linkedUrl=''
-                lcount=0
-                try:
-                    linkedUrl = re.compile('<externallink>(.*?)</externallink>').findall(channel)[0]
-                    lcount=len(re.compile('<externallink>(.*?)</externallink>').findall(channel))
-                except: pass
-                
-                try:
-                    linkedUrl = base64.b32decode(linkedUrl).decode('utf-8')
-                except:
-                    pass
-                    
-
-                name = re.compile('<name>(.*?)</name>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                try:
-                    thumbnail = re.compile('<thumbnail>(.*?)</thumbnail>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                except:
-                    thumbnail = ''
-                try:
-                    fanart1 = re.compile('<fanart>(.*?)</fanart>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                except:
-                    fanart1 = ''
-
-                if not fanart1:
-                    if __addon__.getSetting('use_thumb') == "true":
-                        fanArt = thumbnail
-                    else:
-                        fanArt = fanart
-                else:
-                    fanArt = fanart1
-                if fanArt == None:
-                    #raise
-                    fanArt = ''
-
-                try:
-                    desc = re.compile('<info>(.*?)</info>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if desc == None:
-                        #raise
-                        desc = ''
-                except:
-                    desc = ''
-
-                try:
-                    genre = re.compile('<genre>(.*?)</genre>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if genre == None:
-                        #raise
-                        genre = ''
-                except:
-                    genre = ''
-
-                try:
-                    date = re.compile('<date>(.*?)</date>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if date == None:
-                        #raise
-                        date = ''
-                except:
-                    date = ''
-
-                try:
-                    credits = re.compile('<credits>(.*?)</credits>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if credits == None:
-                        #raise
-                        credits = ''
-                except:
-                    credits = ''
-
-                try:
-                    year = re.compile('<year>(.*?)</year>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if year == None:
-                        #raise
-                        year = ''
-                except:
-                    year = ''
-
-                try:
-                    director = re.compile('<director>(.*?)</director>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if director == None:
-                        #raise
-                        director = ''
-                except:
-                    director = ''
-
-                try:
-                    writer = re.compile('<writer>(.*?)</writer>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if writer == None:
-                        #raise
-                        writer = ''
-                except:
-                    writer = ''
-
-                try:
-                    duration = re.compile('<duration>(.*?)</duration>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if duration == None:
-                        #raise
-                        duration = ''
-                except:
-                    duration = ''
-
-                try:
-                    premiered = re.compile('<premiered>(.*?)</premiered>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if premiered == None:
-                        #raise
-                        premiered = ''
-                except:
-                    premiered = ''
-
-                try:
-                    studio = re.compile('<studio>(.*?)</studio>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if studio == None:
-                        #raise
-                        studio = ''
-                except:
-                    studio = ''
-
-                try:
-                    rate = re.compile('<rate>(.*?)</rate>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if rate == None:
-                        #raise
-                        rate = ''
-                except:
-                    rate = ''
-
-                try:
-                    originaltitle = re.compile('<originaltitle>(.*?)</originaltitle>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if originaltitle == None:
-                        #raise
-                        originaltitle = ''
-                except:
-                    originaltitle = ''
-
-                try:
-                    country = re.compile('<country>(.*?)</country>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if country == None:
-                        #raise
-                        country = ''
-                except:
-                    country = ''
-
-                try:
-                    rating = re.compile('<country>(.*?)</country>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if rating == None:
-                        #raise
-                        rating = ''
-                except:
-                    rating = ''
-
-                try:
-                    userrating = re.compile('<userrating>(.*?)</userrating>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if userrating == None:
-                        #raise
-                        userrating = ''
-                except:
-                    userrating = ''
-
-                try:
-                    votes = re.compile('<votes>(.*?)</votes>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if votes == None:
-                        #raise
-                        votes = ''
-                except:
-                    votes = ''
-
-                try:
-                    aired = re.compile('<aired>(.*?)</aired>',re.MULTILINE|re.DOTALL).findall(channel)[0]
-                    if aired == None:
-                        #raise
-                        aired = ''
-                except:
-                    aired = ''
-
-                try:
-                    if linkedUrl=='':
-                        #addDir(name.encode('utf-8', 'ignore'),url.encode('utf-8'),2,thumbnail,fanArt,desc,genre,date,credits,True)
-                        #addDir(name.encode('utf-8', 'ignore'),url.encode('utf-8'),2,thumbnail,fanArt,desc,genre,date,credits,year,director,writer,duration,premiered,studio,rate,originaltitle,country,rating,userrating,votes,aired)
-                        addDir(name.encode('utf-8', 'ignore'),'',1,thumbnail,fanArt,desc,genre,date,credits,year,director,writer,duration,premiered,studio,rate,originaltitle,country,rating,userrating,votes,aired)
-                    else:
-                        #print linkedUrl
-                        #addDir(name.encode('utf-8'),linkedUrl.encode('utf-8'),1,thumbnail,fanArt,desc,genre,date,None,'source')
-                        if adult == 'false' and re.search("ADULTOS",name,re.IGNORECASE) and name.find('(+18)') >=0:
-                            pass
-                        else:
-                            addDir(name.encode('utf-8', 'ignore'),linkedUrl,1,thumbnail,fanArt,desc,genre,date,credits,year,director,writer,duration,premiered,studio,rate,originaltitle,country,rating,userrating,votes,aired)
-                except:
-                    notify('[COLOR red]Erro ao Carregar os dados![/COLOR]')
-        elif re.search("#EXTM3U",data) or re.search("#EXTINF",data):
-            content = data.rstrip()
-            match = re.compile(r'#EXTINF:(.+?),(.*?)[\n\r]+([^\r\n]+)').findall(content)
-            for other,channel_name,stream_url in match:
-                if 'tvg-logo' in other:
-                    thumbnail = re_me(other,'tvg-logo=[\'"](.*?)[\'"]')
-                    if thumbnail:
-                        if thumbnail.startswith('http'):
-                            thumbnail = thumbnail
-                        #elif not addon.getSetting('logo-folderPath') == "":
-                        #    logo_url = addon.getSetting('logo-folderPath')
-                        #    thumbnail = logo_url + thumbnail
-
-                        else:
-                            thumbnail = ''
-                    else:
-                        thumbnail = ''
-                else:
-                    thumbnail = ''
-
-                if 'group-title' in other:
-                    cat = re_me(other,'group-title=[\'"](.*?)[\'"]')
-                else:
-                    cat = ''
-
-                try:
-                    #resolver_final = resolver(stream_url, channel_name, thumbnail)
-                    if uhdtv == 'false' and re.search("4K",channel_name):
-                        pass
-                    elif fhdtv == 'false' and re.search("FHD",channel_name):
-                        pass
-                    elif hdtv == 'false' and re.search("HD",channel_name) and not re.search("FHD",channel_name):
-                        pass
-                    elif sdtv == 'false' and re.search("SD",channel_name):
-                        pass
-                    elif sdtv == 'false' and not re.search("SD",channel_name) and not re.search("HD",channel_name) and not re.search("4K",channel_name):
-                        pass
-                    #Futebol
-                    elif int(filtrar) == 1 and re.search("Praia",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 1 and not re.search("SPORTV",channel_name,re.IGNORECASE) and not re.search("DAZN",channel_name,re.IGNORECASE) and not re.search("ESPN Brasil",channel_name,re.IGNORECASE) and not re.search("PREMIERE",channel_name,re.IGNORECASE) and not re.search("COPA",channel_name,re.IGNORECASE):
-                        pass
-                    #Esportes
-                    elif int(filtrar) == 2 and re.search("Praia",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 2 and not re.search("Band Sports",channel_name,re.IGNORECASE) and not re.search("Combate",channel_name,re.IGNORECASE) and not re.search("Fox Sports",channel_name,re.IGNORECASE) and not re.search("SPORTV",channel_name,re.IGNORECASE) and not re.search("DAZN",channel_name,re.IGNORECASE) and not re.search("ESPN",channel_name,re.IGNORECASE) and not re.search("PREMIERE",channel_name,re.IGNORECASE) and not re.search("COPA",channel_name,re.IGNORECASE):
-                        pass
-                    #Filmes e Series
-                    elif int(filtrar) == 3 and re.search("Sports",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 3 and re.search("XY Max",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 3 and not re.search("AMC",channel_name,re.IGNORECASE) and not re.search("Canal Brasil",channel_name,re.IGNORECASE) and not re.search("Cinemax",channel_name,re.IGNORECASE) and not re.search("HBO",channel_name,re.IGNORECASE) and not re.search("Max",channel_name,re.IGNORECASE) and not re.search("Megapix",channel_name,re.IGNORECASE) and not re.search("Paramount",channel_name,re.IGNORECASE) and not re.search("SPACE",channel_name,re.IGNORECASE) and not re.search("TCM",channel_name,re.IGNORECASE) and not re.search("Telecine Action",channel_name,re.IGNORECASE) and not re.search("TC Action",channel_name,re.IGNORECASE) and not re.search("Telecine Cult",channel_name,re.IGNORECASE) and not re.search("TC Cult",channel_name,re.IGNORECASE) and not re.search("TC Cult",channel_name,re.IGNORECASE) and not re.search("Telecine Fun",channel_name,re.IGNORECASE) and not re.search("TC Fun",channel_name,re.IGNORECASE) and not re.search("Telecine Pipoca",channel_name,re.IGNORECASE) and not re.search("TC Pipoca",channel_name,re.IGNORECASE) and not re.search("Telecine Premium",channel_name,re.IGNORECASE) and not re.search("TC Premium",channel_name,re.IGNORECASE) and not re.search("Telecine Touch",channel_name,re.IGNORECASE) and not re.search("TC Touch",channel_name,re.IGNORECASE) and not re.search("TNT",channel_name,re.IGNORECASE) and not re.search("A&E",channel_name,re.IGNORECASE) and not re.search("AXN",channel_name,re.IGNORECASE) and not re.search("AXN",channel_name,re.IGNORECASE) and not re.search("FOX",channel_name,re.IGNORECASE) and not re.search("FX",channel_name,re.IGNORECASE) and not re.search("SONY",channel_name,re.IGNORECASE) and not re.search("Studio Universal",channel_name,re.IGNORECASE) and not re.search("SyFy",channel_name,re.IGNORECASE) and not re.search("Universal Channel",channel_name,re.IGNORECASE) and not re.search("Universal TV",channel_name,re.IGNORECASE) and not re.search("Warner",channel_name,re.IGNORECASE):
-                        pass
-                    #Infantil
-                    elif int(filtrar) == 4 and re.search("FM",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 4 and not re.search("Baby TV",channel_name,re.IGNORECASE) and not re.search("BOOMERANG",channel_name,re.IGNORECASE) and not re.search("CARTOON NETWORK",channel_name,re.IGNORECASE) and not re.search("DISCOVERY KIDS",channel_name,re.IGNORECASE) and not re.search("DISNEY",channel_name,re.IGNORECASE) and not re.search("GLOOB",channel_name,re.IGNORECASE) and not re.search("NAT GEO KIDS",channel_name,re.IGNORECASE) and not re.search("NICKELODEON",channel_name,re.IGNORECASE) and not re.search("NICK JR",channel_name,re.IGNORECASE) and not re.search("PLAYKIDS",channel_name,re.IGNORECASE) and not re.search("TOONCAST",channel_name,re.IGNORECASE) and not re.search("ZOOMOO",channel_name,re.IGNORECASE):
-                        pass
-                    #Documentario
-                    elif int(filtrar) == 5  and re.search("Kids",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 5 and not re.search("Discovery",channel_name,re.IGNORECASE) and not re.search("H2 HD",channel_name,re.IGNORECASE) and not re.search("H2 SD",channel_name,re.IGNORECASE) and not re.search("H2 FHD",channel_name,re.IGNORECASE) and not re.search("History",channel_name,re.IGNORECASE) and not re.search("Nat Geo Wild",channel_name,re.IGNORECASE) and not re.search("National Geographic",channel_name,re.IGNORECASE):
-                        pass
-                    #Abertos
-                    elif int(filtrar) == 6 and re.search("Brasileirinhas",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 6 and re.search("News",channel_name,re.IGNORECASE) or int(filtrar) == 6 and re.search("Sat",channel_name,re.IGNORECASE) or int(filtrar) == 6 and re.search("FM",channel_name,re.IGNORECASE):
-                        pass
-                    elif int(filtrar) == 6 and not re.search("Globo",channel_name,re.IGNORECASE) and not re.search("RECORD",channel_name,re.IGNORECASE) and not re.search("RedeTV",channel_name,re.IGNORECASE) and not re.search("Rede Vida",channel_name,re.IGNORECASE) and not re.search("SBT",channel_name,re.IGNORECASE) and not re.search("TV Brasil",channel_name,re.IGNORECASE) and not re.search("TV Cultura",channel_name,re.IGNORECASE) and not re.search("TV Diario",channel_name,re.IGNORECASE) and not re.search("BAND",channel_name,re.IGNORECASE):
-                        pass
-    
+</channels>

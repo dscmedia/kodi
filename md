@@ -1,6 +1,6 @@
 name="Live TV VIP"
-url="https://ukturks.app/api/Addon/Addon/Live%20TVs.txt"
-img="https://ukturks.app/api/Addon/thumbs/new/Uk%20turk%20thumbnails%20live%20tv.jpg"
+url=""
+img=""
 
 
 name="Live TV RO 1"

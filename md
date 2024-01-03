@@ -1,5 +1,5 @@
 name="Live TV VIP"
-url="https://ukturks.app/api/Addon/Addon/Live%20TVs.txt"
+url="https:dscmedia.atwebpages.com/FILME.m3u"
 img="https://www.swotandpestle.com/blog/wp-content/uploads/2019/07/Pay-TV.jpg"
 
 name="Live TV RO 1"

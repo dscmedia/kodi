@@ -1,14 +1,47 @@
-<channels>
-<channel>
-<name>[COLORred][B]TV[/B][/COLOR][COLORaqua][B]nexus[/B][/COLOR]</name>*
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>FREE!</info>
+<dir>
+    <title>[COLOR orange][B]PLAY KIDS SONG[/B][/COLOR]</title>
+    <link>https://textbin.net/raw/doIMkQ2fMY</link>
+    <fanart>https://www.jurnalulfericirii.ro/wp-content/uploads/2017/01/652x450_130756-ce-personaj-de-desene-animate-te-reprezinta-in-functie-de-zodie.jpg</fanart>
+    <thumbnail>https://www.jurnalulfericirii.ro/wp-content/uploads/2017/01/652x450_130756-ce-personaj-de-desene-animate-te-reprezinta-in-functie-de-zodie.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR orange][B]PLAY DESENE ANIMATE[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/desene232.m3u</link>
+    <fanart>https://webstockreview.net/images/animate-png-files-11.png</fanart>
+    <thumbnail>https://clipartart.com/images/hollywood-star-clipart-free-6.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
+    <title>[COLOR orange][B]DESENE ANIMATE YOUTUBE[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/desene1.m3u</link>
+    <fanart>https://www.consolegames.ro/forum/attachments/f62-muzica-filme-seriale/220022d1398199459-desene-animate-looney_tunes.jpg</fanart>
+    <thumbnail>https://www.consolegames.ro/forum/attachments/f62-muzica-filme-seriale/220022d1398199459-desene-animate-looney_tunes.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+ <dir>
+   <title>[COLOR orange][B]PLAY Halloween Kids Movies[/B][/COLOR]</title>
+  <link>https://pastebin.com/raw/Bs0y3zje</link>
+  <thumbnail>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</thumbnail>
+   <fanart>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</fanart>
+  </dir>
+
+  <dir>
+	<name>[COLOR orange][B]PLAY 13 Clowns Kids[/B][/COLOR]</name>
+	<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/desene13clowns.m3u</link>
+	<thumbnail>https://tips4kodi.net/wp-content/uploads/2018/11/13clowns-addon-fanart-2.jpg</thumbnail>
+	<fanart>https://tips4kodi.net/wp-content/uploads/2018/11/13clowns-addon-fanart-2.jpg</fanart>
+</dir>
+
+  <dir>
+	<name>[COLOR orange][B]PLAY Mr. Bean Kids Movies[/B][/COLOR]</name>
+	<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/misterbindesene.m3u</link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61rGCy%2BZ3zL._SL1001_.jpg</thumbnail>
+	<fanart>https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/59/98838647dbee122d36eac722ccea5c07.jpg</fanart>
+</dir>
 
 
-
-
-</channel>
 
 

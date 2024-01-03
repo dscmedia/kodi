@@ -1,5 +1,5 @@
 name="Live TV VIP"
-url="https:dscmedia.atwebpages.com/FILME.m3u"
+url=""
 img="https://www.swotandpestle.com/blog/wp-content/uploads/2019/07/Pay-TV.jpg"
 
 name="Live TV RO 1"

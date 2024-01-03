@@ -2,13 +2,13 @@ name="Live TV VIP"
 url=""
 img="https://www.swotandpestle.com/blog/wp-content/uploads/2019/07/Pay-TV.jpg"
 
-name="Live TV RO"
+name="Live TV RO 1"
 url=""
 img="https://tvromanialive.com/wp-content/uploads/2021/06/Romania-TV-1.png"
 
-name="Live TV RO 1"
+name="Live TV RO 2"
 url="https://"
-img="https://"
+img="https://https://tvromanialive.com/wp-content/uploads/2021/06/Romania-TV-1.png"
 
 
 name="FILME"

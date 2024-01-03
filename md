@@ -1,7 +1,3 @@
-name="Live TV VIP"
-url=""
-img="https://www.swotandpestle.com/blog/wp-content/uploads/2019/07/Pay-TV.jpg"
-
 <item>
 <title>[COLOR white][B]BASTARDEN: THE PROMISED LAND (2023) [/B][/COLOR]</title>
 <link>plugin://plugin.video.romanianpack/?action=OpenSite&site=portalultautv&link=https%3A%2F%2Fhqq.ac%2Fe%2FY2N1ZTRLOGc3dzVqYk93V3M4NzRWQT09&switch=play&nume=FILME ROMANESTI&info=</link>
@@ -26,7 +22,4 @@ img="https://www.swotandpestle.com/blog/wp-content/uploads/2019/07/Pay-TV.jpg"
 * Popa Vasile ( Vasile PanČiru ) : @ parintele3chestii
 * DascÄlul ( Claudiu DobriČÄ ) : @ iasispala_ch3stii</info>
 </item>
-url="https://"
-img="https://"
-
 

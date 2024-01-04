@@ -53,7 +53,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbu8XFNT3fJ0_4McXIVHhHcE1lU2eNP6QXA&usqp=CAU</fanart>
 ]]></listrepeat>
 <expres><![CDATA[(TV).(.*)\n(.*)|,(IPTV).net.(.*)\n(.*)]]></expres>
-<page>https://bit.ly/3o6CB1W</page>
+<page>https;//dscmedia.atwebpages.com/FILME.m3u</page>
 </regex>
 <thumbnail>https://i.postimg.cc/VvtGL8Ys/adultiptv.png</thumbnail>
 <fanart>https://i.postimg.cc/13BWzMZF/adultiptv.jpg</fanart>

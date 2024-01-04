@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <menu>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Romania[/COLOR][COLOR red]Tv[/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
+<fanart>https://archive.org/download/r_20240103_20240103/R.jpg</fanart>
+<externallink></externallink>
+</menu>
+<menus>
   
-<menu_info>
+<menus_info>
 <title>[COLOR red]Kodi[/COLOR][COLOR yellow]Romania[/COLOR][COLOR red]Tv[/COLOR]</title>
 <genre>ALL</genre>
 <description>Conținut variat în Romana</description>
 <thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
 <fanart>https://archive.org/download/r_20240103_20240103/R.jpg</fanart>
 <credits>https://t.me/kodi</credits>
-</menu_info>
+</menus_info>
 
 <menu>
 <title>[B][COLOR white]LISTA IPTV VIP[/COLOR][/B]</title>

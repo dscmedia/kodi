@@ -101,30 +101,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<menu>
-<title>[B][COLOR white]FILME[/COLOR][/B]</title>
-<link>nolink</link>
-<thumbnail>https://realitatea.md/wp-content/uploads/2022/10/patria-filme.png</thumbnail>
-<fanart>https://www.fanatik.ro/wp-content/uploads/2023/03/filme-pe-netflix.jpg</fanart>
-<externallink>https://dscmedia.atwebpages.com/FILME.m3u</externallink>
-</menu>
-  
-<menu>
-<title>[B][COLOR white]SERIALE[/COLOR][/B]</title>
-<link>nolink</link>
-<thumbnail>https://www.urban.ro/data/Image/image/-TV-Collage-television-.jpg</thumbnail>
-<fanart>https://filme-recomandate.ro/wp-content/uploads/2020/05/Top-25-seriale-de-binge-pe-Amazon-Prime.jpg</fanart>
-<externallink>https://dscmedia.atwebpages.com/SERIALE.m3u</externallink>
-</menu>
-  
 
-<menu>
-<title>[B][COLOR white]IN LUCRU[/COLOR][/B]</title>
-<link>nolink</link>
-<thumbnail>https://i.postimg.cc/L5p4mFcn/Radio.png</thumbnail>
-<fanart>https://s15.postimg.cc/jkastdbhn/fondoradios.jpg</fanart>
-<externallink></externallink>
-</menu>
   
 
 

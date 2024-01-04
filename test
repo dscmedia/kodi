@@ -1,45 +1,118 @@
-<dir>
-    <title>[COLOR orange][B]PLAY KIDS SONG[/B][/COLOR]</title>
-    <link>https://textbin.net/raw/doIMkQ2fMY</link>
-    <fanart>https://www.jurnalulfericirii.ro/wp-content/uploads/2017/01/652x450_130756-ce-personaj-de-desene-animate-te-reprezinta-in-functie-de-zodie.jpg</fanart>
-    <thumbnail>https://www.jurnalulfericirii.ro/wp-content/uploads/2017/01/652x450_130756-ce-personaj-de-desene-animate-te-reprezinta-in-functie-de-zodie.jpg</thumbnail>
-</dir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<dir>
-    <title>[COLOR orange][B]PLAY DESENE ANIMATE[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/desene232.m3u</link>
-    <fanart>https://webstockreview.net/images/animate-png-files-11.png</fanart>
-    <thumbnail>https://clipartart.com/images/hollywood-star-clipart-free-6.jpg</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
+<menus>
+  
+<menus_info>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Romania[/COLOR][COLOR red]Tv[/COLOR]</title>
+<genre>ALL</genre>
+<description>Conținut variat în Romana</description>
+<thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
+<fanart>https://archive.org/download/r_20240103_20240103/R.jpg</fanart>
+<credits>https://t.me/kodi</credits>
+</menus_info>
 
-<dir>
-    <title>[COLOR orange][B]DESENE ANIMATE YOUTUBE[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/desene1.m3u</link>
-    <fanart>https://www.consolegames.ro/forum/attachments/f62-muzica-filme-seriale/220022d1398199459-desene-animate-looney_tunes.jpg</fanart>
-    <thumbnail>https://www.consolegames.ro/forum/attachments/f62-muzica-filme-seriale/220022d1398199459-desene-animate-looney_tunes.jpg</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
 
- <dir>
-   <title>[COLOR orange][B]PLAY Halloween Kids Movies[/B][/COLOR]</title>
-  <link>https://pastebin.com/raw/Bs0y3zje</link>
-  <thumbnail>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</thumbnail>
-   <fanart>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</fanart>
-  </dir>
+  
 
-  <dir>
-	<name>[COLOR orange][B]PLAY 13 Clowns Kids[/B][/COLOR]</name>
-	<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/desene13clowns.m3u</link>
-	<thumbnail>https://tips4kodi.net/wp-content/uploads/2018/11/13clowns-addon-fanart-2.jpg</thumbnail>
-	<fanart>https://tips4kodi.net/wp-content/uploads/2018/11/13clowns-addon-fanart-2.jpg</fanart>
-</dir>
+<menu>
+<title>[B][COLOR white]TV ALL[/COLOR] [COLOR yellow]WORLD[/COLOR][/B]</title>
+<link>$doregex[country]</link>
+<regex>
+<name>country</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][country.param1][/COLOR][/B]</title>
+  <link>$doregex[channel]</link>
+  <thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
+  <fanart>https://img.freepik.com/premium-photo/person-watching-video-wall-with-multimedia-images-different-television-screens-generative-ai_220873-23001.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+	import requests
+	req = requests.get("https://www2.vavoo.to/live2/index").json()
+	countries = []
+	for group in req:
+		country = group["group"]
+		if country not in countries:
+			countries.append(country)
+	return sorted(countries) 
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>channel</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
+  <link>[channel.param2]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
+  <thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
+  <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[group.*?"[country.param1]".*?name":"(.*?)\(\d\)".*?"(http.*?)"]]></expres>
+<page>https://www2.vavoo.to/live2/index</page>     
+</regex>
+<regex>
+<name>key</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+	import requests, random
+	veclist = requests.get("https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/master/data.json").json()
+	sig = None
+	i = 0
+	while (not sig and i < 50):
+		i+=1
+		vec = {"vec": random.choice(veclist)}
+		req = requests.post('https://www.vavoo.tv/api/box/ping2', data=vec).json()
+		if req.get('signed'):
+			sig = req['signed']
+		elif req.get('data', {}).get('signed'):
+			sig = req['data']['signed']
+		elif req.get('response', {}).get('signed'):
+			sig = req['response']['signed']
+	return sig
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
+<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
+</menu>
 
-  <dir>
-	<name>[COLOR orange][B]PLAY Mr. Bean Kids Movies[/B][/COLOR]</name>
-	<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/misterbindesene.m3u</link>
-	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61rGCy%2BZ3zL._SL1001_.jpg</thumbnail>
-	<fanart>https://d2lv662meabn0u.cloudfront.net/boomerang/dynamic/show/00000000/59/98838647dbee122d36eac722ccea5c07.jpg</fanart>
-</dir>
 
+
+<menu>
+<title>[B][COLOR white]LISTA IPTV[/COLOR][/B]</title>
+<link>nolink</link>
+<thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
+<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
+<externallink>https://bit.ly/listasiptv_gl</externallink>
+</menu>
+
+
+
+<menu>
+<title>[B][COLOR white]PLUTO TV[/COLOR][/B]</title>
+<link>nolink</link>
+<thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
+<fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
+<externallink>https://bit.ly/plutotv_gl</externallink>
+</menu>
+  
+<menu>
+<title>[B][COLOR white]SAMSUNG TV PLUS[/COLOR][/B]</title>
+<link>nolink</link>
+<thumbnail>https://i.postimg.cc/DZphy31z/samsungtvplus.png</thumbnail>
+<fanart>https://i.postimg.cc/sXCzM4Nk/samsungtvplus.jpg</fanart>
+<externallink>https://bit.ly/SamsungTVPlusKS</externallink>
+</menu>
+  
+
+<menu>
+<title>[B][COLOR white]RADIO[/COLOR][/B]</title>
+<link>nolink</link>
+<thumbnail>https://i.postimg.cc/L5p4mFcn/Radio.png</thumbnail>
+<fanart>https://s15.postimg.cc/jkastdbhn/fondoradios.jpg</fanart>
+<externallink>https://bit.ly/RADIO_MOD</externallink>
+</menu>
+  
+
+
+</menus>
 

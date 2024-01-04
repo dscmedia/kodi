@@ -56,7 +56,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https;//dscmedia.atwebpages.com/FILME.m3u</page>
 </regex>
 <thumbnail>https://ip-tv.app/wp-content/uploads/2023/08/ip-tv.jpg</thumbnail>
-<fanart>https://i.postimg.cc/13BWzMZF/adultiptv.jpg</fanart>
+<fanart>https://ip-tv.app/wp-content/uploads/2023/08/ip-tv.jpg</fanart>
 </menu>
 
 </menus>

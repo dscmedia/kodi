@@ -109,8 +109,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
   import xbmcgui
   dialog = xbmcgui.Dialog()  
-  opt = dialog.select('Elige una lista:', ['Televisión', 'Radio'])  
-  list = ['https://www.tdtchannels.com/lists/tv.m3u', 'https://www.tdtchannels.com/lists/radio.m3u']
+  opt = dialog.select('Alegeți o listă:', ['TV', 'Radio'])  
+  list = ['https://dscmedia.atwebpages.com/ROMANIAUNU.m3u', 'https://www.tdtchannels.com/lists/radio.m3u']
   return list[opt] 
 ]]></expres>
 <page></page>
@@ -150,8 +150,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://i.postimg.cc/xd9nkC7D/46137909-1.jpg</thumbnail>
-<fanart>https://i.postimg.cc/Jnrbj7xC/Spain-flag-1.jpg</fanart>
+<thumbnail>https://www.domari.gr/wp-content/uploads/2021/10/cum-vezi-programe-TV-romanesti-pe-mobil-720x445.jpg</thumbnail>
+<fanart>https://cdn6.aptoide.com/imgs/8/2/3/823dd8596c3b2649ae17684480295679_feature_graphic.jpg</fanart>
 </menu>
 
   

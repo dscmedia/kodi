@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
   import xbmcgui
   dialog = xbmcgui.Dialog()  
-  opt = dialog.select('Alegeți o listă:', ['Lista 1 TV', 'Lista 2 TV'])  
+  opt = dialog.select('Alegeți o listă:', ['FILME', 'SERIALE'])  
   list = ['https://ukturks.app/api/Addon/Addon/movies/Indexx.txt', 'https://dscmedia.atwebpages.com/ROMANIAUNU.m3u8']
   return list[opt] 
 ]]></expres>

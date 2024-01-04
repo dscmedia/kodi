@@ -52,7 +52,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <thumbnail>https://i.postimg.cc/W3tg97zd/adultiptv.png</thumbnail>
   <fanart>https://i.postimg.cc/d1nxvjcR/adultiptv.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[(MyCamTV).(.*)\n(.*)|,(AdultIPTV).net.(.*)\n(.*)]]></expres>
+<expres><![CDATA[(TV).(.*)\n(.*)|,(IPTV).net.(.*)\n(.*)]]></expres>
 <page>https://bit.ly/3o6CB1W</page>
 </regex>
 <thumbnail>https://i.postimg.cc/VvtGL8Ys/adultiptv.png</thumbnail>

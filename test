@@ -42,7 +42,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
   <title>[B][COLOR white][channel.param1][/COLOR][/B]</title>
   <link>[channel.param2]?n=1&amp;b=5&amp;vavoo_auth=$doregex[key]|user-Agent:VAVOO/2.6</link>
-  <thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
+  <thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
   <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[group.*?"[country.param1]".*?name":"(.*?)\(\d\)".*?"(http.*?)"]]></expres>
@@ -70,7 +70,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://i.imgur.com/r2Hkc3s.png</thumbnail>
+<thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
 <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
 </menu>
 
@@ -81,7 +81,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
 <fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
-<externallink>https://bit.ly/listasiptv_gl</externallink>
+<externallink>https://raw.githubusercontent.com/dscmedia/kodi/main/worldlist</externallink>
 </menu>
 
 
@@ -108,7 +108,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/L5p4mFcn/Radio.png</thumbnail>
 <fanart>https://s15.postimg.cc/jkastdbhn/fondoradios.jpg</fanart>
-<externallink>https://bit.ly/RADIO_MOD</externallink>
+<externallink></externallink>
 </menu>
   
 

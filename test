@@ -14,9 +14,9 @@
 <menu>
 <title>[B][COLOR white]LISTA IPTV VIP[/COLOR][/B]</title>
 <link>nolink</link>
-<thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
-<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
-<externallink>dscmedia.atwebpages.com/ROMANIAVIP.m3u</externallink>
+<thumbnail>https://archive.org/download/1panel/1panel.png</thumbnail>
+<fanart>https://archive.org/download/r_20240103_20240103/R.jpg</fanart>
+<externallink>https://dscmedia.atwebpages.com/ROMANIAVIP.m3u</externallink>
 </menu>
  
 <menu>
@@ -93,24 +93,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <menu>
-<title>[B][COLOR white]PLUTO TV[/COLOR][/B]</title>
+<title>[B][COLOR white]FILME[/COLOR][/B]</title>
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
 <fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
-<externallink>https://bit.ly/plutotv_gl</externallink>
+<externallink>https://dscmedia.atwebpages.com/FILME.m3u</externallink>
 </menu>
   
 <menu>
-<title>[B][COLOR white]SAMSUNG TV PLUS[/COLOR][/B]</title>
+<title>[B][COLOR white]SERIALE[/COLOR][/B]</title>
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/DZphy31z/samsungtvplus.png</thumbnail>
 <fanart>https://i.postimg.cc/sXCzM4Nk/samsungtvplus.jpg</fanart>
-<externallink>https://bit.ly/SamsungTVPlusKS</externallink>
+<externallink>https://dscmedia.atwebpages.com/SERIALE.m3u</externallink>
 </menu>
   
 
 <menu>
-<title>[B][COLOR white]RADIO[/COLOR][/B]</title>
+<title>[B][COLOR white]IN LUCRU[/COLOR][/B]</title>
 <link>nolink</link>
 <thumbnail>https://i.postimg.cc/L5p4mFcn/Radio.png</thumbnail>
 <fanart>https://s15.postimg.cc/jkastdbhn/fondoradios.jpg</fanart>

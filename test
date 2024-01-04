@@ -12,6 +12,14 @@
 <credits>https://t.me/kodi</credits>
 </menus_info>
 
+
+<menu>
+<title>[COLOR red]Kodi[/COLOR][COLOR yellow]Romania[/COLOR][COLOR red]Tv[/COLOR]     [COLOR yellow]por[/COLOR] [COLOR red]@[/COLOR][COLOR yellow]dsc[/COLOR]</title>
+<utube>Sgnp9ZaXHFw</utube>
+<thumbnail>https://i.postimg.cc/PxbwZKFV/uDzZNhh.png</thumbnail>
+<fanart>https://i.postimg.cc/HLwxPn4V/uHz4BP7.jpg</fanart>
+</menu>
+
 <menu>
 <title>[B][COLOR white]LISTA IPTV VIP[/COLOR][/B]</title>
 <link>nolink</link>

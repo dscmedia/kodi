@@ -11,7 +11,13 @@
 <credits>https://t.me/kodi</credits>
 </menus_info>
 
-
+<menu>
+<title>[B][COLOR white]LISTA IPTV VIP[/COLOR][/B]</title>
+<link>nolink</link>
+<thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
+<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/dscmedia/kodi/main/worldlist</externallink>
+</menu>
  
 <menu>
 <title>[B][COLOR white]TV ALL[/COLOR] [COLOR yellow]WORLD[/COLOR][/B]</title>

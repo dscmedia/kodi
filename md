@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLORred][B]TEST[/B][/COLOR][COLORaqua][B]dsc[/B][/COLOR]</name>*
-<thumbnail>https://image.freepik.com/free-vector/welcome-poster-neon-style_118419-260.jpg</thumbnail>
+<thumbnail>https:/</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info>FREE!</info>

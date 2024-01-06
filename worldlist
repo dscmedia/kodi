@@ -11,7 +11,7 @@
   <title>[B][COLOR white][makelist.param1] ([makelist.param2])[/COLOR][/B]</title>
   <link>$doregex[tvchannels]</link>
   <thumbnail>https://ip-tv.app/wp-content/uploads/2023/08/ip-tv.jpg</thumbnail>
-  <fanart>https://it-doc.info/wp-content/uploads/2017/08/izobrajenie-zapisi.jpg</fanart>
+  <fanart>https://archive.org/download/afanart/afanart.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[(?s)first">\s+\S+\s+(\S+.*?)\s+<.*?(\d+).*?href="(https.*?)"]]></expres>
 <page>$doregex[country]</page>

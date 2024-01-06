@@ -88,8 +88,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <menu>
 <title>[B][COLOR white]LISTA IPTV[/COLOR][/B]</title>
 <link>nolink</link>
-<thumbnail>https://i.postimg.cc/sfqr7y78/bMJG1bN.png</thumbnail>
-<fanart>https://i.postimg.cc/dDPpXs9V/UyNxG3U.jpg</fanart>
+<thumbnail>https://www.minhaoperadora.com.br/wp-content/uploads/2023/03/Lista-de-TV-Box-para-uso-de-IPTV-homologadas-pela-Anatel.jpg</thumbnail>
+<fanart>https://archive.org/download/afanart/afanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/dscmedia/kodi/main/worldlist</externallink>
 </menu>
 
